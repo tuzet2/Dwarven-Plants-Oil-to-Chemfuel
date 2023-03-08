@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ModMetaData>
+	<!--Internal mod version in in comments to avoid confusing it with game version.-->
+	<!--1.0.1-->
 	<name>Dwarven Plants: Oil to Chemfuel</name>
 	<author>tuzet2</author>
 	<packageId>tuzet2.DF.refineoil</packageId>
@@ -9,11 +11,11 @@
 	<description>
 This mod adds a recipe to the refinery to turn rock nut oil into chemfuel.
 	</description>
-	<modDependecies>
+	<modDependencies>
 		<li>
 			<packageId>dismarzero.VGP.RimFortressDwarvenPlants</packageId>
 			<displayName>RimFortress: Dwarven Plants</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2042926702</steamWorkshopUrl>
 		</li>
-	</modDependecies>
+	</modDependencies>
 </ModMetaData>

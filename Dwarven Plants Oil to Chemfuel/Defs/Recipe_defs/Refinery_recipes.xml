@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<defs>
+<Defs>
 	<RecipeDef>
 		<defName>t2_MakeChemfuelFromRockNutOil</defName>
 		<label>make chemfuel from rock nut oil</label>
@@ -28,4 +28,4 @@
 			<Chemfuel>35</Chemfuel>
 		</products>
 	</RecipeDef>
-</defs>
+</Defs>
